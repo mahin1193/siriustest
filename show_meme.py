@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib
 
 if __name__ == '__main__':
-    img = Image.open('memes/meme2.jpg')
+    img = Image.open('memes/meme1.jpg')
     
     plt.imshow(img)
     plt.axis('off')
